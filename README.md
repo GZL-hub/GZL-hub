@@ -2,7 +2,7 @@
 I'm a 2nd Year Software Engineering student at Sunway University, passionate about becoming a full-stack software engineer.
 
 ## 🚀 Tech Stack
-- **Languages**: Java, Scala, Kotlin, JavaScript
+- **Languages**: Java, Scala, Kotlin, JavaScript, Python, C++
 - **Frontend**: Vue, HTML, CSS
 - **Backend**: Node.js
 - **Databases**: SQL
