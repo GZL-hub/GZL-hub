@@ -16,8 +16,5 @@ Currently expanding my skills and exploring new technologies in software develop
 
 ## 🏆 Goals
 - Develop robust full-stack applications
-- Contribute to open-source projects
 - Continuously improve technical skills
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+- Implement Agile and DevOps Practices
