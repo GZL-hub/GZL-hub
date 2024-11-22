@@ -1,5 +1,3 @@
-# Sunway Software Engineering Student 🖥️
-
 ## About Me
 I'm a 2nd Year Software Engineering student at Sunway University, passionate about becoming a full-stack software engineer.
 
@@ -13,9 +11,8 @@ I'm a 2nd Year Software Engineering student at Sunway University, passionate abo
 Currently expanding my skills and exploring new technologies in software development.
 
 ## 📫 Connect with Me
-- GitHub: [Your GitHub Username]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Professional Email]
+- LinkedIn: [www.linkedin.com/in/goo-zong-lin-429572270]
+- Email: [zonglingoo@gmail.copm]
 
 ## 🏆 Goals
 - Develop robust full-stack applications
