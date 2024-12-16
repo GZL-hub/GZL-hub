@@ -5,7 +5,7 @@ I'm a 2nd Year Software Engineering student at Sunway University, passionate abo
 - **Languages**: Java, Scala, Kotlin, JavaScript, Python, C++
 - **Frontend**: Vue, HTML, CSS
 - **Backend**: Node.js
-- **Databases**: SQL
+- **Databases**: SQL, MongoDB
 
 ## 🌱 Learning & Growing
 Currently expanding my skills and exploring new technologies in software development.
